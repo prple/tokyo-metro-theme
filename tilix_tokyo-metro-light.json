@@ -1,0 +1,26 @@
+{
+  "name": "Tokyo Metro Light",
+  "author": "Light theme using Tokyo Metro colors",
+  "foreground-color": "#0e3051",
+  "background-color": "#fdfdfd",
+  "use-theme-colors": false,
+  "palette": [
+    "#0e3051",
+    "#f62e36",
+    "#00bd86",
+    "#ff9600",
+    "#00ae9c",
+    "#9076d7",
+    "#009cc1",
+    "#c2a570",
+    "#b7b7ae",
+    "#f62e36",
+    "#00bd86",
+    "#ff9600",
+    "#00ae9c",
+    "#9076d7",
+    "#009cc1",
+    "#9d5d2e"
+  ]
+}
+
