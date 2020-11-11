@@ -1,7 +1,9 @@
 # tokyo-metro-theme
 Color theme inspired by Tokyo Metro lines colors
 
+
 # Color specifications
+TODO: UPDATE THIS!
 Palette      | Hex        | Descritption
 ---          | ---        | ---
 Background   | `#fdfdfd`  | Tokyo Metro white
